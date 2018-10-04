@@ -1,0 +1,9 @@
+ .login{
+   border-radius: 20px;
+   background-color: lawngreen;  
+   width: 40%;
+   height: 200px;
+   padding-top: 40px;
+   padding-bottom: 30px;
+   margin-top: 40px
+}

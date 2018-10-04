@@ -1,0 +1,12 @@
+.data{
+    background-color: lawngreen
+}
+
+td{
+    font-family: fantasy
+}
+
+tr.data{
+   height: 30px
+    
+}

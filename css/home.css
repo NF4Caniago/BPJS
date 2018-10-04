@@ -1,0 +1,41 @@
+ul.nav{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+   position: fixed;
+}
+
+li.nav{
+    float: left;
+}
+
+li.nav a.nav{
+    display: block;
+    color: blue;
+    text-align: center;
+    padding-top: 40px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 40px;
+    text-decoration: none;
+    height: 70%;
+}
+
+
+li a:hover {
+    background-color: white;
+}
+
+div.nav{
+    height: 100px;
+    background-color: greenyellow
+}
+
+img.nav{
+    padding-top: 20px;
+    padding-left: 30px;
+    height: 50px;
+    margin-right: 40px
+}
+
