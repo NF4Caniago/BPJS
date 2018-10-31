@@ -6,7 +6,6 @@
         <link rel="stylesheet" type="text/css" href="css/login.css"/>
     </head>
     <body>
-        <img src="img/logo-bpjs.png" style="height: 50px"/>
         <center>
         
         <div class="login">

@@ -3,7 +3,7 @@ ul.nav{
     margin: 0;
     padding: 0;
     overflow: hidden;
-   position: fixed;
+    position: fixed;
 }
 
 li.nav{
@@ -37,5 +37,16 @@ img.nav{
     padding-left: 30px;
     height: 50px;
     margin-right: 40px
+}
+
+nav.bgnav{
+    background-color: greenyellow
+}
+
+div.isi{
+    background-color: blue;
+    color: blue;
+    height: 100px;
+        width: 100px
 }
 
